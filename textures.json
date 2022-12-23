@@ -1,0 +1,251 @@
+[
+    {
+      "name": "00_castle_fence.png"
+    },
+    {
+      "name": "00_castle_tile.png"
+    },
+    {
+      "name": "00_castle_wall.png"
+    },
+    {
+      "name": "00_cemetary_fence_wood.png"
+    },
+    {
+      "name": "00_cemetary_mad.png"
+    },
+    {
+      "name": "00_cemetary_tomb.png"
+    },
+    {
+      "name": "00_church_floor.png"
+    },
+    {
+      "name": "00_church_sign.png"
+    },
+    {
+      "name": "00_church_wall.png"
+    },
+    {
+      "name": "00_fontain_fontain.png"
+    },
+    {
+      "name": "00_ground_bridge.png"
+    },
+    {
+      "name": "00_ground_cobble01.png"
+    },
+    {
+      "name": "00_ground_cobble02.png"
+    },
+    {
+      "name": "00_ground_cobble03.png"
+    },
+    {
+      "name": "00_ground_cobble05.png"
+    },
+    {
+      "name": "00_ground_cobble06.png"
+    },
+    {
+      "name": "00_ground_cobble07.png"
+    },
+    {
+      "name": "00_ground_cobble08.png"
+    },
+    {
+      "name": "00_ground_cobble09.png"
+    },
+    {
+      "name": "00_ground_cobble10.png"
+    },
+    {
+      "name": "00_ground_frozen.png"
+    },
+    {
+      "name": "00_ground_grass.png"
+    },
+    {
+      "name": "00_ground_grass_big.png"
+    },
+    {
+      "name": "00_ground_grass_big2.png"
+    },
+    {
+      "name": "00_ground_grass_burn.png"
+    },
+    {
+      "name": "00_ground_mud.png"
+    },
+    {
+      "name": "00_ground_mud2.png"
+    },
+    {
+      "name": "00_ground_mud3-09.png"
+    },
+    {
+      "name": "00_ground_mud3-11.png"
+    },
+    {
+      "name": "00_ground_mud4.png"
+    },
+    {
+      "name": "00_ground_stoneA1.png"
+    },
+    {
+      "name": "00_ground_stoneA2.png"
+    },
+    {
+      "name": "00_ground_stoneA3.png"
+    },
+    {
+      "name": "00_ground_water.png"
+    },
+    {
+      "name": "00_house_brick1.png"
+    },
+    {
+      "name": "00_house_brick2.png"
+    },
+    {
+      "name": "00_house_brick3.png"
+    },
+    {
+      "name": "00_house_brick_burn.png"
+    },
+    {
+      "name": "00_house_door_metal.png"
+    },
+    {
+      "name": "00_house_door_wood.png"
+    },
+    {
+      "name": "00_house_door_wood_burn.png"
+    },
+    {
+      "name": "00_house_floor_burn.png"
+    },
+    {
+      "name": "00_house_go_down.png"
+    },
+    {
+      "name": "00_house_go_up.png"
+    },
+    {
+      "name": "00_house_wooden1.png"
+    },
+    {
+      "name": "00_interior_barrel.png"
+    },
+    {
+      "name": "00_interior_bed.png"
+    },
+    {
+      "name": "00_interior_bed_burn.png"
+    },
+    {
+      "name": "00_interior_book_shelf.png"
+    },
+    {
+      "name": "00_interior_book_shelf_burn.png"
+    },
+    {
+      "name": "00_interior_chair.png"
+    },
+    {
+      "name": "00_interior_chair_burn.png"
+    },
+    {
+      "name": "00_interior_counter1.png"
+    },
+    {
+      "name": "00_interior_counter1_burn.png"
+    },
+    {
+      "name": "00_interior_counter2.png"
+    },
+    {
+      "name": "00_interior_counter2_burn.png"
+    },
+    {
+      "name": "00_interior_counter3.png"
+    },
+    {
+      "name": "00_interior_counter3_burn.png"
+    },
+    {
+      "name": "00_interior_counter4.png"
+    },
+    {
+      "name": "00_interior_counter4_burn.png"
+    },
+    {
+      "name": "00_interior_counter5.png"
+    },
+    {
+      "name": "00_interior_counter5_burn.png"
+    },
+    {
+      "name": "00_interior_counter6.png"
+    },
+    {
+      "name": "00_interior_counter6_burn.png"
+    },
+    {
+      "name": "00_interior_pot.png"
+    },
+    {
+      "name": "00_interior_table.png"
+    },
+    {
+      "name": "00_interior_table_burn.png"
+    },
+    {
+      "name": "00_interior_treasure.png"
+    },
+    {
+      "name": "00_interior_treasure_open.png"
+    },
+    {
+      "name": "00_sign_bar.png"
+    },
+    {
+      "name": "00_sign_item.png"
+    },
+    {
+      "name": "00_sign_stick.png"
+    },
+    {
+      "name": "00_sign_warehouse.png"
+    },
+    {
+      "name": "00_sign_weapon.png"
+    },
+    {
+      "name": "00_tree_burn.png"
+    },
+    {
+      "name": "00_tree_unit_B.png"
+    },
+    {
+      "name": "00_tree_unit_back.png"
+    },
+    {
+      "name": "00_tree_unit_front.png"
+    },
+    {
+      "name": "00_tree_unit_mid.png"
+    },
+    {
+      "name": "00_weapon_cold_water.png"
+    },
+    {
+      "name": "00_weapon_kamado.png"
+    },
+    {
+      "name": "00_weapon_kanadoko.png"
+    },
+    {
+      "name": "square-outline-textured.png"
+    }
+]
